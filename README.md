@@ -1,5 +1,7 @@
 # Sobre mim:
-Estou prcurando por uma oportunidade de estágio<br>Estou cursando engenharia de software - PUCPR<br>Estou aprendendo sobre segurança cibernética
+Software Engenner at PUC-PR <br>
+Cybersecurity
+
 
 
 ## 🌐 Redes:
